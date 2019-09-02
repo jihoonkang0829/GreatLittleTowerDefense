@@ -35,6 +35,7 @@ Defense:30
 Speed:	100
 
 Archer(second button): shoots the arrow, but weak defense
+
 Attack:	10(short-range)
 	20(long-range)
 
