@@ -10,6 +10,9 @@ enemy and enemy castle.
 __________________________________________________
 How to play
 
+Download GreatLittleTowerDefense.jar on a java compiler-installed computer.
+Double-click on the file or run the file via terminal.
+
 Press A and D to move around the map.
 
 The left end of the map is your base and
@@ -25,18 +28,18 @@ Unit type
 
 Militia(first button): most basic army.
 Attack:	20
-Defense:	30
+Defense:30
 Speed:	100
 
 Archer(second button): shoots the arrow, but weak defense
 Attack:	10(short-range)
-		20(long-range)
-Defense:	20
+	20(long-range)
+Defense:20
 Speed:	70
 
 Knight(third button): stronger attack and defense, but slow
 Attack:	45
-Defense:	45
+Defense:45
 Speed:	50
 _________________________________________________
 
