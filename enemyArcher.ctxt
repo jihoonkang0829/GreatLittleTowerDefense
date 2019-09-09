@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=xpos\ xvel\ attack\ defense\ radius
+comment0.target=enemyArcher(double,\ double,\ int,\ int,\ int)
+comment1.params=b
+comment1.target=boolean\ collide(Militia)
+comment2.params=b
+comment2.target=boolean\ contactCastle(Base)
+comment3.params=dt\ army\ armyLast\ Castle
+comment3.target=void\ update(long,\ Militia[],\ int,\ Base)
+comment4.params=g\ camXSum
+comment4.target=void\ paint(java.awt.Graphics,\ int)
+comment5.params=b
+comment5.target=void\ hit(Militia)
+comment6.params=
+comment6.target=int\ getType()
+numComments=7

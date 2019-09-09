@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arrow()
+comment1.params=xpos\ ypos\ objectXPos\ objectYPos
+comment1.target=Arrow(double,\ double,\ double,\ double)
+comment2.params=dt
+comment2.target=void\ update(long)
+comment3.params=g\ camXSum
+comment3.target=void\ paint(java.awt.Graphics,\ int)
+comment4.params=b
+comment4.target=boolean\ collide(enemyMilitia)
+numComments=5

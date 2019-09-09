@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Militia()
+comment1.params=xpos\ xvel\ attack\ defense\ radius
+comment1.target=Militia(double,\ double,\ int,\ int,\ int)
+comment2.params=b
+comment2.target=boolean\ collide(enemyMilitia)
+comment3.params=b
+comment3.target=boolean\ contactCastle(enemyBase)
+comment4.params=g\ camXSum
+comment4.target=void\ paint(java.awt.Graphics,\ int)
+comment5.params=dt
+comment5.target=void\ update(long)
+comment6.params=dt\ enemy\ enemyLast\ enemyCastle
+comment6.target=void\ update(long,\ enemyMilitia[],\ int,\ enemyBase)
+comment7.params=b
+comment7.target=void\ hit(enemyMilitia)
+comment8.params=b
+comment8.target=void\ hitCastle(enemyBase)
+comment9.params=
+comment9.target=int\ getType()
+numComments=10

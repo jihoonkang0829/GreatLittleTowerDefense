@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xpos\ xvel\ attack\ defense\ radius
+comment0.target=enemyKnight(double,\ double,\ int,\ int,\ int)
+comment1.params=g\ camXSum
+comment1.target=void\ paint(java.awt.Graphics,\ int)
+comment2.params=
+comment2.target=int\ getType()
+numComments=3
